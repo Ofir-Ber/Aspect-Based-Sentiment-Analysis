@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Mar  6 12:40:21 2022
-
-@author: Bryan
 """
 
 from imports import *
