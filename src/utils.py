@@ -3,7 +3,6 @@
 """
 Created on Sun Mar  6 11:56:40 2022
 
-@author: Bryan
 """
 
 from imports import *
